@@ -1,0 +1,100 @@
+body{
+	margin:0px;
+	font-family: 'Open Sans', sans-serif;
+}
+@media (min-width: 1200px)
+.container {
+    max-width: 1200px;
+}
+a.first{
+	color:rgb(179,179,179)
+}
+a{
+	color:white;
+}
+a:hover{
+	color:rgb(179,179,179);
+}
+
+.nav-tabs{
+	border-top:1px solid white;
+	border-bottom: 0px;
+}
+.nav-tabs .nav-link{
+	border:0px;
+}
+
+.rooter{
+	width:100%;
+	height:105px;
+	background: #5E606C;
+}
+.contact i,span{
+	color:white;
+}
+.up_nav{
+	width:100%;
+	height:50px;
+	background: #5E606C;
+
+}
+.main{
+	width:100%;
+	height:150px;
+	background: #554;
+
+}
+.about_us{
+	width:100%;
+	height:250px;
+	background: #514;
+
+}
+.what_we_offer{
+	width:100%;
+	height:250px;
+	background: #5254;
+
+}
+.conclusions{
+	width:100%;
+	height:150px;
+	background: #454;
+
+}
+.works{
+	width:100%;
+	height:250px;
+	background: #518254;
+
+}
+.testimonials{
+	width:100%;
+	height:150px;
+	background: #554;
+
+}
+.news{
+	width:100%;
+	height:250px;
+	background: #774;
+
+}
+.gallery{
+	width:100%;
+	height:100px;
+	background: #518784;
+
+}
+.down_nav{
+	width:100%;
+	height:50px;
+	background: #515254;
+
+}
+.footer{
+	width:100%;
+	height:50px;
+	background: #694;
+
+}
